@@ -3,5 +3,6 @@
 int main(void) {
     printf("Hello, PTA!\n");
     printf("This line lives on a branch.\n");
+    printf("try-branch: no-ff merge demo.\n");
     return 0;
 }
